@@ -10,7 +10,14 @@ Surf2TetMesh visualizes the mesh and surface normals interactively, making it id
 
 ## Demo
 
-![Demo](examples/demo.gif)  
+<img src="fig/figure_comparison.png" alt="Surf2TetMesh Demo" width="600">
+
+<img src="fig/face_nomals.png" alt="Surf2TetMesh Demo" width="600">
+
+<img src="fig/figure_comparison2.png" alt="Surf2TetMesh Demo" width="600">
+
+<img src="fig/face_nomals2.png" alt="Surf2TetMesh Demo" width="600">
+
 *Interactive visualization of STL → tetrahedral FEM mesh → surface normals.*
 
 ---
