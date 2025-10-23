@@ -1,0 +1,5 @@
+numpy
+pyvista
+trimesh
+tetgen
+meshio
